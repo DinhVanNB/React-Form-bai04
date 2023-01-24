@@ -1,6 +1,10 @@
 .container {
-  width: 350px;
+  width: 300px;
   margin: auto;
+  font-size: 13px;
+}
+.title{
+  text-align: center;
 }
 
 label {
@@ -12,7 +16,7 @@ input {
 }
 
 .custom-input {
-  padding-bottom: 2%;
+  padding-bottom: 1%;
 }
 
 .custom-input-error label {
